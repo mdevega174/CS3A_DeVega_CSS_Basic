@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman';
+}
+
+header, footer {
+   background-color: skyblue;
+   color: white;
+   text-align: center;
+}
+
+.link {
+    text-align: left;
+    text-align: justify;
+    color: blue;
+}
+
+span {
+    text-indent: 10em;
+    font-style: normal;
+    font-weight: 50%;
+}
+
+a {
+    color: black;
+}
